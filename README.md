@@ -1,4 +1,4 @@
-# [epwvis](http://JohnNelsonsGITHub.github.io/epwvis)
+# [epwvis](https://johnnelsonsgithub.github.io/JohnNelsonsGITHub.github.io-epwvis/)
 ------
 *An online viewer and analysis tool for EnergyPlus Weather (EPW) files.*
 
